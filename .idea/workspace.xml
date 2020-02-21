@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebc690ba-0e05-472d-9d20-098c8577f096" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XjGEtbYECjVFykXA6ZPY4f6WHd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Automation_Java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EnterName">
+    <configuration name="EnterName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToolCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ToolCheck" />
+      <option name="MAIN_CLASS_NAME" value="ToolCheck.EnterName" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnterName.chooseGenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToolCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ToolCheck" />
+      <option name="MAIN_CLASS_NAME" value="ToolCheck.EnterName" />
+      <option name="METHOD_NAME" value="chooseGenger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnterName.chooseYearExp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToolCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ToolCheck" />
+      <option name="MAIN_CLASS_NAME" value="ToolCheck.EnterName" />
+      <option name="METHOD_NAME" value="chooseYearExp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnterName.nameEnter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToolCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ToolCheck" />
+      <option name="MAIN_CLASS_NAME" value="ToolCheck.EnterName" />
+      <option name="METHOD_NAME" value="nameEnter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnterName.selectSex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToolCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ToolCheck" />
+      <option name="MAIN_CLASS_NAME" value="ToolCheck.EnterName" />
+      <option name="METHOD_NAME" value="selectSex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Automation_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment" />
+      <option name="MAIN_CLASS_NAME" value="Assignment.Problem1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EnterName" />
+        <item itemvalue="JUnit.EnterName.nameEnter" />
+        <item itemvalue="JUnit.EnterName.chooseYearExp" />
+        <item itemvalue="JUnit.EnterName.chooseGenger" />
+        <item itemvalue="JUnit.EnterName.selectSex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebc690ba-0e05-472d-9d20-098c8577f096" name="Default Changelist" comment="" />
+      <created>1581551981442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581551981442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582057346791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582057346791" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582157395472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582157395472" />
+    <state x="507" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581627062328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581627062328" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1581884853416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581884853416" />
+    <state width="1493" height="305" key="GridCell.Tab.0.bottom" timestamp="1582242359086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582242359086" />
+    <state width="1493" height="305" key="GridCell.Tab.0.center" timestamp="1582242359086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582242359086" />
+    <state width="1493" height="305" key="GridCell.Tab.0.left" timestamp="1582242359085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582242359085" />
+    <state width="1493" height="305" key="GridCell.Tab.0.right" timestamp="1582242359086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582242359086" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582221771910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582221771910" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582221771910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582221771910" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582221771910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582221771910" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582221771910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582221771910" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1582243566450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582243566450" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581988283222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1581988283222" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581622906250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581622906250" />
+    <state x="209" y="118" key="new project wizard" timestamp="1581981650622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="118" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581981650622" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1582158013443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582158013443" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Automation_Java$Sum_firstName.ic" NAME="Sum.firstName Coverage Results" MODIFIED="1582158003190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Table.*</FILTER>
+    </SUITE>
+  </component>
+</project>
